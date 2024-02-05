@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "mixin": [
+    "tuyumod.mixins.json",
+    "tuyumod-common.mixins.json"
+  ],
+  "quilt_loader": {
+    "group": "${group}",
+    "id": "tuyumod",
+    "version": "${version}",
+    "metadata": {
+      "name": "Example Mod",
+      "description": "This is an example description! Tell everyone what your mod is about!",
+      "contributors": {
+        "Me!": "Owner"
+      },
+      "contact": {
+        "sources": "https://github.com/architectury/architectury-templates"
+      },
+      "icon": "assets/tuyumod/icon.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "entrypoints": {
+      "init": [
+        "fish.lll.tuyumod.quilt.TuyuModQuilt"
+      ]
+    },
+    "depends": [
+      {
+        "id": "quilt_loader",
+        "version": "*"
+      },
+      {
+        "id": "quilt_base",
+        "version": "*"
+      },
+      {
+        "id": "minecraft",
+        "version": ">=1.20.1"
+      },
+      {
+        "id": "architectury",
+        "version": ">=9.1.12"
+      }
+    ]
+  },
+  "minecraft": {
+    "environment": "*"
+  }
+}
