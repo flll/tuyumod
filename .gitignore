@@ -12,6 +12,7 @@ libs/
 .classpath
 .project
 .idea/
+.sync/
 classes/
 .metadata
 .vscode
