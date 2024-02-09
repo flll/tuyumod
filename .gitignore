@@ -13,6 +13,7 @@ libs/
 .project
 .idea/
 .sync/
+!.sync/aaa
 classes/
 .metadata
 .vscode

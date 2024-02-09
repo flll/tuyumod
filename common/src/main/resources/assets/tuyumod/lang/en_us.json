@@ -1,3 +1,18 @@
 {
-  "item.tuyumod.example_item": "Example Item"
+  "item.tuyumod.aurora_berry1": "AuroraBerry1",
+  "item.tuyumod.aurora_berry2": "AuroraBerry2",
+  "item.tuyumod.aurora_berry3": "AuroraBerry3",
+  "item.tuyumod.bento": "Bento",
+  "item.tuyumod.bento_lid": "Bento Lid",
+  "item.tuyumod.example_item": "Example Item",
+  "item.tuyumod.glass": "Glass",
+  "item.tuyumod.miracleless": "Miracleless",
+  "item.tuyumod.omusubi_nori": "Omusubi Nori",
+  "item.tuyumod.omusubi_tenmusu": "Omusubi Tenmusu",
+  "item.tuyumod.onigiri_nori": "Onigiri Nori",
+  "item.tuyumod.onigiri_umeboshi": "Onigiri Umeboshi",
+  "item.tuyumod.onirigi_shio": "Onirigi Shio",
+  "item.tuyumod.sandwich_berry": "Sandwich Berry",
+  "item.tuyumod.voltagress_ore": "Voltagress Ore",
+  "itemGroup.tuyumod.tuyumod_tab": "Tuyu MOD"
 }

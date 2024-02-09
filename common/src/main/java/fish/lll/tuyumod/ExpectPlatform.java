@@ -18,8 +18,8 @@ public class ExpectPlatform {
      * <p>
      * <a href="https://plugins.jetbrains.com/plugin/16210-architectury">@ExpectPlatformを支援するためにIntelliJプラグインも入手してください。</a>
      */
-    public static Path getConfigDirectory() {
-        // 単にエラーを投げます。内容は実行時に置き換えられるべきです。
-        throw new AssertionError();
-    }
+//    public static Path getConfigDirectory() {
+//        // 単にエラーを投げます。内容は実行時に置き換えられるべきです。
+//        throw new AssertionError();
+//    }
 }

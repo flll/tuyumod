@@ -7,10 +7,10 @@ loom {
 }
 
 dependencies {
-    // We depend on fabric loader here to use the fabric @Environment annotations and get the mixin dependencies
-    // Do NOT use other classes from fabric loader
+    // ここではfabric loaderに依存して、fabric @Environmentアノテーションを使用し、mixinの依存関係を取得します
+    // fabric loaderの他のクラスを使用しないでください
     modImplementation "net.fabricmc:fabric-loader:${rootProject.fabric_loader_version}"
-    // Remove the next line if you don't want to depend on the API
+    // APIに依存したくない場合は、次の行を削除してください
     modApi "dev.architectury:architectury:${rootProject.architectury_version}"
 }
 

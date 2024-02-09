@@ -1,4 +1,18 @@
 {
-  "item.tuyumod.example_item": "エグザンプルアイテム",
+  "item.tuyumod.aurora_berry1": "オーロラベリー1",
+  "item.tuyumod.aurora_berry2": "オーロラベリー2",
+  "item.tuyumod.aurora_berry3": "オーロラベリー3",
+  "item.tuyumod.bento": "弁当",
+  "item.tuyumod.bento_lid": "弁当の蓋",
+  "item.tuyumod.example_item": "例のアイテム",
+  "item.tuyumod.glass": "ガラス",
+  "item.tuyumod.miracleless": "ミラクルレス",
+  "item.tuyumod.omusubi_nori": "おむすびのり",
+  "item.tuyumod.omusubi_tenmusu": "おむすび天むす",
+  "item.tuyumod.onigiri_nori": "おにぎりのり",
+  "item.tuyumod.onigiri_umeboshi": "おにぎり梅干し",
+  "item.tuyumod.onirigi_shio": "おにぎり塩",
+  "item.tuyumod.sandwich_berry": "サンドウィッチベリー",
+  "item.tuyumod.voltagress_ore": "ボルタグレス鉱石",
   "itemGroup.tuyumod.tuyumod_tab": "つゆもっど"
 }
